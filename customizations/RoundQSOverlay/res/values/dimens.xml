@@ -7,7 +7,6 @@
     <dimen name="custom_qs_tile_label_line_height">16sp</dimen>
     <dimen name="custom_qs_panel_padding_top">20dp</dimen>
     <dimen name="custom_notification_row_padding">0dp</dimen>
-    <dimen name="qs_tile_height">96dp</dimen>
     <dimen name="qs_tile_margin_horizontal">22dp</dimen>
     <dimen name="qs_footer_height">72dp</dimen>
     <dimen name="qs_customize_internal_side_paddings">6dp</dimen>
@@ -24,4 +23,11 @@
     <!-- QS Brightness slider -->
     <dimen name="qs_top_brightness_margin_bottom">25dp</dimen>
     <dimen name="qs_bottom_brightness_margin_top">20dp</dimen>
+
+    <dimen name="rounded_slider_corner_radius">?android:attr/dialogCornerRadius</dimen>
+    <dimen name="rounded_slider_height">48dp</dimen>
+    <dimen name="qs_corner_radius">?android:attr/dialogCornerRadius</dimen>
+    <dimen name="qs_tile_height">84dp</dimen>
+    <dimen name="brightness_mirror_height">48dp</dimen>
+    <dimen name="rounded_slider_background_rounded_corner">?android:attr/dialogCornerRadius</dimen>
 </resources>
